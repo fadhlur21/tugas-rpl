@@ -21,7 +21,7 @@
     }
 
     header h1 {
-      color: #38bdf8;
+      color: purple;
       font-size: 24px;
     }
 
@@ -33,7 +33,7 @@
     }
 
     nav a:hover {
-      color: #38bdf8;
+      color: purple;
     }
 
     .hero {
@@ -48,7 +48,7 @@
     }
 
     .hero span {
-      color: #38bdf8;
+      color: purple;
     }
 
     .hero p {
@@ -60,15 +60,15 @@
     .hero a {
       display: inline-block;
       padding: 12px 30px;
-      border: 1px solid #38bdf8;
-      color: #38bdf8;
+      border: 1px solid purple;
+      color: purple;
       text-decoration: none;
       border-radius: 6px;
       font-weight: bold;
     }
 
     .hero a:hover {
-      background-color: #38bdf8;
+      background-color: purple;
       color: #020617;
     }
 
@@ -81,7 +81,7 @@
     section h3 {
       font-size: 28px;
       margin-bottom: 20px;
-      color: #38bdf8;
+      color: purple;
     }
 
     .about p {
